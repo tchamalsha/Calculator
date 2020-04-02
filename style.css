@@ -42,6 +42,8 @@ ul li a:hover{
 }
 h2{
     text-align: center;
+    font-size: 30pxpx;
+    color: gray;
     
 }
 h3{
@@ -68,8 +70,9 @@ input[type=text],select{
 .btn1{
     width: 50%;
     box-sizing: border-box;
-    padding: 20px 10px;
-    margin-top: 40px;
+    padding: 20px 20px;
+    
+    margin-top: 20px;
     background: black;
     outline: none;
     border: none;
@@ -84,4 +87,10 @@ input[type=text],select{
 .btn1:hover{
     background:grey;
     
+}
+p{
+    font-size: 30px;
+    padding: 5px 5px;
+    color:brown;
+    text-align: right;
 }
