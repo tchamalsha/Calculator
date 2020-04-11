@@ -1,0 +1,35 @@
+body{
+    background-image: url(s.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    font-size: 15px;
+    font-family: cursive;
+}
+.container{
+     width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+    height: 70%; 
+    background-color: rgba(235, 228, 228, 0.85);
+    border-radius: 15px;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+
+}
+h1{
+    text-align: center;
+    color: rgb(19, 2, 2);
+
+}
+th, td{
+    text-align: center;
+}
+hr.hr1{
+    border: 5px;
+}
+h3{
+    text-align: right;
+    color: gray;
+    font-size: smaller;
+}

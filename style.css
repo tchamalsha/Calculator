@@ -27,7 +27,7 @@ ul li a:hover{
 }
 .container{
     width: 30%;
-    
+
     position: fixed;
     top: 50%;
     left: 20%;
@@ -44,7 +44,7 @@ h2{
     text-align: center;
     font-size: 30pxpx;
     color: gray;
-    
+
 }
 h3{
     color: grey;
@@ -59,19 +59,19 @@ input[type=text],select{
     padding:15px 5px;
     background: rgba(0,0,0,0.8);
     outline: none;
-    border: 1;
+    border: 0;
     border-bottom: ;
     color: seashell;
     border-radius: 6px;
     margin: 5px;
     font-weight: bold;
-    
+
 }
 .btn1{
     width: 50%;
     box-sizing: border-box;
     padding: 20px 20px;
-    
+
     margin-top: 20px;
     background: transparent;
     outline: none;
@@ -94,4 +94,8 @@ p{
     padding: 5px 5px;
     color:red;
     text-align: right;
+}
+hr{
+    border-radius: 5px;
+    border: 5px gray;
 }
